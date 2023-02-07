@@ -1,9 +1,0 @@
-Salut tout le monde
-
-Pour insérer du text, il faut dans le mode commande taper sur i
-et pour retourner au monde commande, taper sur ESC
-
-Utiliser dans le mode commande :
-:w pour sauvegarde
-:wq pour sauvegarder et quitter
-:q quitter sans sauvegarder
