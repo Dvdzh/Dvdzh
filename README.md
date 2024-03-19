@@ -1,5 +1,3 @@
-# README - Étudiant en Computer Science à Polytechnique Montréal
-
 ## À propos de moi
 Étudiant en Computer Science à Polytechnique Montréal et passionné par l'intelligence artificielle, la data-science et le calcul haute performance. J'ai une solide expérience dans plusieurs langages de programmation tels que Python, Java, C, C++ et SQL.
 
